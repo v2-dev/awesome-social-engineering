@@ -22,7 +22,7 @@ Table of Contents
 4. [Books](#social-engineering-books)
 5. [Documentation](#documentation)
 6. [Tools](#tools)
-7. [Miscellaneus](#miscellaneous)
+7. [Miscellaneous](#miscellaneous)
 8. [OSINT](#osint)
 9. [Contribution](#contribution)
 10. [License](#license)
