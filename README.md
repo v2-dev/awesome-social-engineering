@@ -31,10 +31,6 @@ Table of Contents
 Online Courses
 =================
 
-- [Social-Engineer.com - Social Engineering Training](https://www.social-engineer.com/social-engineering-training/)
-
-- [IntelTechniques.com - Online OSINT Training Course](https://inteltechniques.com/online.aspx)
-
 - [Udemy - Learn Social Engineering from Scratch](https://www.udemy.com/learn-social-engineering-from-scratch)
 
 - [PacktPub - Learn Social Engineering From Scratch by Zaid Sabih](https://www.packtpub.com/application-development/learn-social-engineering-scratch-video)
@@ -53,6 +49,20 @@ Psychology Books
 =================
 Most of these books covers the basics of psychology useful for a social engineer.
 
+- [Artful Persuasion – How to command attention, Change minds and influence People – Harry Mills](https://www.amazon.com/Artful-Persuasion-Command-Attention-Influence/dp/0814470637)
+
+- [What is every BODY saying – Joe Navarro](https://www.amazon.com/What-Every-BODY-Saying-Speed-Reading-ebook/dp/B0010SKSTO/ref=sr_1_1?dchild=1&keywords=what+is+everybody+saying+%E2%80%93+joe+navarro&qid=1614256945&s=books&sr=1-1)
+
+- [Conflict, power and persuasion – Ben Hoffman](https://www.amazon.com/Conflict-Power-Persuasion-Negotiating-Effectively/dp/B0015E4JMK/ref=sr_1_1?dchild=1&keywords=Conflict%2C+power+and+persuasion+%E2%80%93+Ben+Hoffman&qid=1614256960&s=books&sr=1-1)
+
+- [Dealing with difficult people – McGraw Hill](https://www.amazon.com/Dealing-Difficult-People-McGraw-Hill-Professional-ebook/dp/B000P2A3R8/ref=sr_1_4?dchild=1&keywords=Dealing+with+difficult+people+%E2%80%93+McGraw+Hill&qid=1614256977&s=books&sr=1-4)
+
+- [Get anyone to do anything – David J Lieberman](https://www.amazon.com/Get-Anyone-Anything-Again-Psychological/dp/B01NH07LGD/ref=sr_1_2?dchild=1&keywords=Get+anyone+to+do+anything+%E2%80%93+David+J+Lieberman&qid=1614257001&s=books&sr=1-2)
+
+- [How to start a conversation and make friends - Don Gabor](https://www.amazon.com/How-Start-Conversation-Make-Friends/dp/1451610998/ref=sr_1_1?dchild=1&keywords=How+to+start+a+conversation+and+make+friends+-+Don+Gabor%5D&qid=1614257018&s=books&sr=1-1)
+
+- [The art of Psychological Warfare – Michael T Stevens](https://www.amazon.com/Art-Psychological-Warfare-Skillfully-Undetected/dp/1530719151/ref=sr_1_1?dchild=1&keywords=The+art+of+Psychological+Warfare+%E2%80%93+Michael+T+Stevens&qid=1614257033&s=books&sr=1-1)
+
 - [How to Win Friends and Influence People - Dale Carnegie](https://www.amazon.co.uk/d/Books/How-Win-Friends-Influence-People-Dale-Carnegie/0091906814/ref=sr_1_1?ie=UTF8&qid=1494621059&sr=8-1&keywords=how+to+win+friends+and+influence+people)
 
 - [The 48 Laws of Power - Robert Greene](https://www.amazon.co.uk/d/Books/48-Laws-Power-Robert-Greene-Collection/1861972784/ref=sr_1_1?ie=UTF8&qid=1494621512&sr=8-1&keywords=the+48+laws+of+power)
@@ -69,10 +79,13 @@ Most of these books covers the basics of psychology useful for a social engineer
 
 - [Mindfucking: A Critique of Mental Manipulation - Colin McGinn](https://www.goodreads.com/book/show/4049997-mindfucking)
 
-- [What Every Body is Saying: An Ex-FBI Agent's Guide to Speed-Reading People -  Joe Navarro, Marvin Karlins](https://www.goodreads.com/book/show/1173576.What_Every_Body_is_Saying)
 
 Social Engineering Books
 =================
+
+- [Human Hacking – Chris Hadnagy](https://humanhackingbook.com/)
+
+- [Learn Social Engineering – Dr. Erdal Ozkaya](https://www.amazon.com/Learn-Social-Engineering-internationally-renowned-ebook/dp/B079HYPC27/ref=sr_1_1?dchild=1&keywords=Learn+Social+Engineering+%E2%80%93+Dr.+Erdal+Ozkaya&qid=1614257055&s=books&sr=1-1)
 
 - [Social Engineering: The Art of Human Hacking - Chris Hadnagy](https://www.amazon.co.uk/Social-Engineering-Art-Human-Hacking/dp/0470639539/ref=sr_1_1?ie=UTF8&qid=1494622911&sr=8-1&keywords=chris+hadnagy)
 
@@ -99,11 +112,18 @@ Social Engineering Books
 - [Learn Social Engineering - Erdal Ozkaya](https://www.packtpub.com/networking-and-servers/learn-social-engineering)
 
 
+COMMUNITIES
+=================
+[Abstract Security](https://discord.gg/zn3wsrr) - community od Discord that is focused around Physical Security and it has many members that are in the buissness of Physical Security.
+
+
 Documentation
 =================
 #### Social Engineer resources
 
 * [The Social-Engineer portal](https://www.social-engineer.org/) - Everything you need to know as a social engineer is in this site. You will find podcasts, resources, framework, informations about next events, blog ecc...
+
+* [Layer 8 conference and podcast](https://layer8conference.com/) - Conference and podcast that is focused on OSINT and Social Engineering.
 
 Tools
 =================
